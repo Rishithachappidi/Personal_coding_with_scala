@@ -1,0 +1,76 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\scala_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Area$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Area$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Area.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Area.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DiscountCalculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\DiscountCalculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DiscountCalculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\DiscountCalculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EvenOdd$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\EvenOdd$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EvenOdd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\EvenOdd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fibonacci$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Fibonacci$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fibonacci.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Fibonacci.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GCD$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\GCD$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GCD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\GCD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListMapSetTuple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\ListMapSetTuple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListMapSetTuple.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\ListMapSetTuple.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixAddition$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\MatrixAddition$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixAddition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\MatrixAddition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\MatrixMultiplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\MatrixMultiplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixTranspose$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\MatrixTranspose$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixTranspose.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\MatrixTranspose.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Min_Max$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Min_Max$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Min_Max.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Min_Max.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ModifiedStudentProfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\ModifiedStudentProfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ModifiedStudentProfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\ModifiedStudentProfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Palindrome$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Palindrome$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Palindrome.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Palindrome.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseArray$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\ReverseArray$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseArray.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\ReverseArray.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StudentProfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\StudentProfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StudentProfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\StudentProfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Sum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\Sum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SumNaturalNumbers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\SumNaturalNumbers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SumNaturalNumbers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\SumNaturalNumbers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreeDArray$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\ThreeDArray$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreeDArray.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\ThreeDArray.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tuple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\tuple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tuple.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\target\out\jvm\scala-2.13.16\scala\classes\tuple.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.13.16/scala/scala_2.13-0.1.0-SNAPSHOT.jar[0m

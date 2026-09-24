@@ -1,0 +1,192 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "scala",
+        "directory": "C:\\Users\\rishi\\BIG DATA\\SCALA",
+        "workspaceDir": "C:\\Users\\rishi\\BIG DATA\\SCALA",
+        "sources": [
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\src\\main\\scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\src\\main\\scala-2.13",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\src\\main\\scala-2",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\src\\main\\java",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\target\\out\\jvm\\scala-2.13.16\\scala\\src_managed\\main",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\3D_array.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\ADD_MATRIX_2D.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\Area.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\EvenOdd.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\Min_Max.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\Modifies_Studentprofile.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\MULTIPLY_3D_matrix.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\reverse_array.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\StudentProfile.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\Sum.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\TRANSPOSE.scala",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\tuple.scala"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar"
+        ],
+        "out": "C:\\Users\\rishi\\BIG DATA\\SCALA\\.bloop\\scala",
+        "classesDir": "C:\\Users\\rishi\\BIG DATA\\SCALA\\.bloop\\scala\\scala-2.13\\classes",
+        "resources": [
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\src\\main\\resources",
+            "C:\\Users\\rishi\\BIG DATA\\SCALA\\target\\out\\jvm\\scala-2.13.16\\scala\\resource_managed\\main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.13.16",
+            "options": [
+                
+            ],
+            "jars": [
+                "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar",
+                "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.16\\scala-compiler-2.13.16.jar",
+                "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.16\\scala-reflect-2.13.16.jar",
+                "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\github\\java-diff-utils\\java-diff-utils\\4.15\\java-diff-utils-4.15.jar",
+                "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline\\3.27.1\\jline-3.27.1-jdk8.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": false,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": false,
+                "filterLibraryFromClasspath": false
+            },
+            "bridgeJars": [
+                "C:\\Users\\rishi\\BIG DATA\\SCALA\\target\\out\\jvm\\scala-2.13.16\\scala\\compiler-bridge\\scala2-sbt-bridge-2.13.16.jar"
+            ]
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "zio.test.sbt.ZTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "weaver.framework.CatsEffect"
+                    ]
+                },
+                {
+                    "names": [
+                        "hedgehog.sbt.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk-26.0.1",
+                "options": [
+                    "-Duser.dir=C:\\Users\\rishi\\BIG DATA\\SCALA"
+                ]
+            },
+            "mainClass": [
+                
+            ],
+            "runtimeConfig": {
+                "home": "C:\\Program Files\\Java\\jdk-26.0.1",
+                "options": [
+                    "-Duser.dir=C:\\Users\\rishi\\BIG DATA\\SCALA"
+                ]
+            },
+            "classpath": [
+                "C:\\Users\\rishi\\BIG DATA\\SCALA\\.bloop\\scala\\scala-2.13\\classes",
+                "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar"
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.16",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.16",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\rishi\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\rishi\BIG DATA\SCALA\SPARK_RDD_LAB\target\out\jvm\scala-2.12.18\sparkrddlab\sparkrddlab_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab8RDD$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\SPARK_RDD_LAB\target\out\jvm\scala-2.12.18\sparkrddlab\classes\Lab8RDD$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab8RDD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rishi\BIG DATA\SCALA\SPARK_RDD_LAB\target\out\jvm\scala-2.12.18\sparkrddlab\classes\Lab8RDD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.12.18/sparkrddlab/sparkrddlab_2.12-0.1.0-SNAPSHOT.jar[0m
